@@ -1,3 +1,9 @@
-# Task-1-MOTION-CUT
-Name: Vulla Yuvateja
-Company
+**Name :** VULLA YUVATEJA
+
+**Company:** MotionCut
+
+**Internship Details:**
+● Position: Web Development Intern
+● Duration: 2 Months
+● Start Date: 5th January 2025
+
