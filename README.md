@@ -1,1 +1,3 @@
-# Task-1-MOTION-CUT-
+# Task-1-MOTION-CUT
+Name: Vulla Yuvateja
+Company
